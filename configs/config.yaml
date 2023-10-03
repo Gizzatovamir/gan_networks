@@ -1,0 +1,5 @@
+config:
+  batch_size: 5
+  epochs: 10
+  latent_layer: 256
+  device: "gpu"
